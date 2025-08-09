@@ -7,13 +7,14 @@ It uses **Google Gemini AI**, **sentimental analysis**, and **VAPI Dashboard** i
 
 ## 👥 Team Members
 
-| Member |
+| Members |
 |--------|
-| ![Yuvarrunjitha R S](https://github.com/2024yuva) |
-| ![Vijey Abineesh](https://github.com/VijeyAbinessh) |
-| ![Srinidhi N](https://github.com/srinidhi31-max) | 
-| ![Varshini R](https://github.com/Varshinirajesh) | 
-| ![Hemalatha](https://github.com/hema027) | 
+| [Yuvarrunjitha R S](https://github.com/2024yuva) |
+| [Vijey Abineesh](https://github.com/VijeyAbinessh) |
+| [Srinidhi N](https://github.com/srinidhi31-max) | 
+| [Varshini R](https://github.com/Varshinirajesh) | 
+| [Hemalatha](https://github.com/hema027) | 
+
 
 ---
 
