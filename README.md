@@ -69,14 +69,12 @@ It uses **Google Gemini AI**, **sentimental analysis**, and **VAPI Dashboard** i
 ---
 
 ## 🖼 Workflow Preview
-
----
-
-## 🖼 Workflow Preview
 <img width="1489" height="592" alt="image" src="https://github.com/user-attachments/assets/2362e23b-5eaf-4710-a92e-b50943da58b0" />
 
 
 ---
+
+## Multi-lang support
 
 ## 📜 License
 This project is licensed under the MIT License.
