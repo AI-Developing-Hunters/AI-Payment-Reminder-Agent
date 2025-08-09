@@ -77,5 +77,7 @@ It uses **Google Gemini AI**, **sentimental analysis**, and **VAPI Dashboard** i
 
 ## Multi-lang support
 
+[🎥 Watch Hindi Demo](payment_reminder_agent_n8n(hindi).mp4)
+
 ## 📜 License
 This project is licensed under the MIT License.
