@@ -1,41 +1,44 @@
-# AI-Payment-Reminder-Agent
-
 # 📞 AI-Powered Payment Reminder Workflow (n8n)
 
-This project is an **AI-based payment reminder assistant** built in [n8n](https://n8n.io/) that integrates sentiment analysis, conversational AI, and voice calling to automate friendly payment reminders.
+This project is an **AI-based payment reminder assistant** built in [n8n](https://n8n.io/) that integrates **sentimental analysis**, conversational AI, **multi-language support**, and voice calling to automate friendly payment reminders.  
+It is fully integrated with the **VAPI Dashboard** for real-time AI-powered voice interactions.
 
 ---
 
 ## 🚀 Features
 - **Webhook Trigger**: Accepts incoming payment reminder requests from external systems.
 - **AI Conversation Agent**: Uses Google Gemini to generate friendly and human-like responses.
-- **Event Scheduling**: Automatically creates calendar events for due dates.
-- **Sentiment Analysis**: Analyzes customer tone to adjust communication style.
-- **AWS Lambda Integration**: Handles custom payment logic and data processing.
-- **Dynamic Message Routing**: Uses conditional nodes to personalize messages.
-- **VAPI Voice Calls**: Initiates live calls to customers with conversational AI.
-- **Webhook Response**: Sends final confirmation/status back to the source system.
+- **Multi-Language Support**: Communicates in multiple languages based on customer preferences.
+- **Event Scheduling**: Automatically creates calendar events for payment due dates.
+- **Sentimental Analysis**: Detects customer tone (Positive / Neutral / Negative) and adjusts response style accordingly.
+- **AWS Lambda Integration**: Handles custom payment logic and backend processing.
+- **Dynamic Message Routing**: Uses conditional nodes to personalize messages per customer.
+- **VAPI Voice Calls**: Integrated via **VAPI Dashboard** to initiate natural-sounding, AI-powered live calls.
+- **Webhook Response**: Sends final confirmation/status back to the originating system.
 
 ---
 
 ## 🛠 Workflow Structure
 1. **Webhook** – Receives payment reminder trigger.
-2. **AWS Lambda** – Executes custom backend logic.
+2. **AWS Lambda** – Executes custom backend logic for payment processing.
 3. **AI Agent (Google Gemini)** – Generates conversational responses.
 4. **Google Calendar** – Creates payment due events.
-5. **Sentiment Analysis** – Detects customer tone (Positive/Neutral/Negative).
-6. **Conditional Logic (IF Nodes)** – Branches communication based on sentiment.
-7. **Edit Fields Nodes** – Prepares personalized message data.
-8. **VAPI Call** – Places AI-powered voice calls.
-9. **Respond to Webhook** – Returns final response to the original request.
+5. **Sentimental Analysis** – Detects customer tone and routes workflow accordingly:
+   - **Positive Tone** → Friendly confirmation message.
+   - **Neutral Tone** → Standard reminder.
+   - **Negative Tone** → More empathetic, understanding message.
+6. **Conditional Logic (IF Nodes)** – Branches workflow based on sentiment result.
+7. **Edit Fields Nodes** – Prepares personalized message content.
+8. **VAPI Call via Dashboard** – Places multi-language AI-powered voice calls.
+9. **Respond to Webhook** – Returns final status or confirmation to the original source.
 
 ---
 
 ## 📦 Integrations
-- **Google Gemini Chat Model**
-- **Google Calendar API**
-- **AWS Lambda**
-- **VAPI.ai** (Voice AI Platform)
+- **Google Gemini Chat Model** (Conversational AI & Multi-language)
+- **Google Calendar API** (Event Scheduling)
+- **AWS Lambda** (Backend Logic)
+- **VAPI.ai Dashboard** (Voice AI Integration)
 
 ---
 
@@ -45,20 +48,33 @@ This project is an **AI-based payment reminder assistant** built in [n8n](https:
    - Google Gemini
    - Google Calendar
    - AWS Lambda
-   - VAPI
+   - VAPI Dashboard
 3. Import this workflow JSON into n8n.
 4. Configure environment variables or credentials for each service.
 5. Activate the workflow.
 
+
 ---
 
 ## 🖼 Workflow Preview
-<img width="1429" height="484" alt="image" src="https://github.com/user-attachments/assets/dfc6b8b2-a5c6-4ac6-9419-ab04bbbf840b" />
+
+---
+
+## 🖼 Workflow Preview
+<img width="1489" height="592" alt="image" src="https://github.com/user-attachments/assets/2362e23b-5eaf-4710-a92e-b50943da58b0" />
 
 
 ---
 
 ## 📜 License
 This project is licensed under the MIT License.
+
+
+---
+
+## 📜 License
+This project is licensed under the MIT License.
+
+
 
 
