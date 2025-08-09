@@ -1,7 +1,19 @@
-# 📞 AI-Powered Payment Reminder Workflow (n8n)
+# 🤖 AI Agent Hackathon Project – AI-Powered Payment Reminder (n8n)
 
-This project is an **AI-based payment reminder assistant** built in [n8n](https://n8n.io/) that integrates **sentimental analysis**, conversational AI, **multi-language support**, and voice calling to automate friendly payment reminders.  
-It is fully integrated with the **VAPI Dashboard** for real-time AI-powered voice interactions.
+This is our **AI Agent Hackathon** project — an intelligent, voice-enabled, **multi-language payment reminder assistant** built in [n8n](https://n8n.io/).  
+It uses **Google Gemini AI**, **sentimental analysis**, and **VAPI Dashboard** integration to deliver friendly, human-like payment reminders over phone calls.
+
+---
+
+## 👥 Team Members
+
+| Member | Profile |
+|--------|---------|
+| 🧑‍💻 Yuvarrunjitha R S | ![Profile Pic](./team/name1.jpg) |
+| 🧑‍💻 Vijey Abinesh |![Profile Pic](./team/name2.jpg) |
+| 🧑‍💻 Srinidhi N | ![Profile Pic](./team/name3.jpg) |
+| 🧑‍💻 Varshini R |  ![Profile Pic](./team/name4.jpg) |
+| 🧑‍💻 Hemalatha | ![Profile Pic](./team/name4.jpg) |
 
 ---
 
