@@ -74,17 +74,8 @@ It uses **Google Gemini AI**, **sentimental analysis**, and **VAPI Dashboard** i
 
 ---
 
+
 ## Multi-lang support
 
 ## 📜 License
 This project is licensed under the MIT License.
-
-
----
-
-## 📜 License
-This project is licensed under the MIT License.
-
-
-
-
