@@ -91,6 +91,17 @@ Voice Synthesis – ElevenLabs converts the translated text into high-quality sp
 ![image](https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966)
 
 
+## 🛠 Guide: How to Add Your Downloaded n8n Workflow to README.md
+
+```Open your workflow in n8n.```
+
+```Click the three dots menu (⋮) in the top right.```
+
+```Select "Import" → "add this downloaded file from you files manager".```
+
+T```his will give you this workflow. (e.g., ai_payment_reminder.json).```
+
+
 🙌 Thanks, Team!
 Huge shout-out to my awesome teammates — thanks for the brainstorming sessions, late-night fixes, and all the laughs along the way. Couldn’t have pulled this off without your energy, support, and dedication! 🚀💙
 
