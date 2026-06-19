@@ -14,6 +14,9 @@ Our team AI Developers secured 4th Place in the AI Agents Hackathon conducted by
 **Team Score: 3.5**
 
 🔗 Hackathon Link: https://unstop.com/p/ai-agents-hackathon-swafinix-technologies-pvt-ltd-1529586
+## Team Leader
+
+[Hemalatha](https://github.com/hema027) 
 
 ## 👥 Team Members
 
@@ -22,8 +25,7 @@ Our team AI Developers secured 4th Place in the AI Agents Hackathon conducted by
 | [Yuvarrunjitha R S](https://github.com/2024yuva) |
 | [Vijey Abineesh](https://github.com/VijeyAbinessh) |
 | [Srinidhi N](https://github.com/srinidhi31-max) | 
-| [Varshini R](https://github.com/Varshinirajesh) | 
-| [Hemalatha](https://github.com/hema027) | 
+| [Varshini R](https://github.com/Varshinirajesh) |  
 
 ![image](https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966)
 
