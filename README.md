@@ -3,7 +3,17 @@
 This is an intelligent, voice-enabled, **multi-language payment reminder assistant** built in [n8n](https://n8n.io/).  
 ```It uses Google Gemini AI, sentiment analysis, and VAPI Dashboard integration to deliver friendly, human-like payment reminders over the phone.```
 
-![image](https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966)
+ ## Hackathon Achievement
+
+**AI Agents Hackathon 2026 – Swafinix Technologies Pvt. Ltd**
+
+Our team AI Developers secured 4th Place in the AI Agents Hackathon conducted by Swafinix Technologies through Unstop.
+<img width="1200" height="206" alt="image" src="https://github.com/user-attachments/assets/6e984aa6-ebae-47dc-b7bb-4de8568048a5" />
+
+**Team Name: AI Developers**
+**Team Score: 3.5**
+
+🔗 Hackathon Link: https://unstop.com/p/ai-agents-hackathon-swafinix-technologies-pvt-ltd-1529586
 
 ## 👥 Team Members
 
@@ -17,7 +27,37 @@ This is an intelligent, voice-enabled, **multi-language payment reminder assista
 
 ![image](https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966)
 
-## 🚀 Features
+## Problem Statement
+
+Traditional payment reminder systems are often repetitive, impersonal, and ineffective. Customers may ignore SMS messages, emails, or automated calls because they lack personalization and fail to adapt to customer responses.
+
+Businesses and financial institutions need a smarter way to follow up on pending payments while maintaining a positive customer experience. The challenge is to create an automated solution that can communicate naturally, understand customer sentiment, support multiple languages, and reduce manual follow-up efforts.
+
+## Why We Built This
+
+This AI-Powered Payment Reminder Agent was developed to transform conventional payment collection processes into intelligent and customer-friendly interactions.
+
+Instead of sending generic reminders, our solution leverages AI to:
+
+* Deliver personalized payment reminders through natural conversations.
+* Analyze customer sentiment and adjust responses accordingly.
+* Support multiple languages to improve accessibility and engagement.
+* Automate repetitive follow-up tasks, reducing operational workload.
+* Schedule payment-related events and maintain customer commitments.
+* Provide human-like voice interactions using AI-powered calling systems.
+
+By combining Large Language Models, workflow automation, sentiment analysis, and voice AI, our system helps organizations improve payment recovery rates while ensuring a better customer experience.
+
+## Impact
+
+* Reduced manual effort for payment collection teams.
+* Improved customer engagement through personalized communication.
+* Enhanced accessibility through multilingual voice support.
+* Scalable solution capable of handling large volumes of payment reminders.
+* AI-driven decision making for more effective customer interactions.
+
+
+## Features
 - **Webhook Trigger**: Accepts incoming payment reminder requests from external systems.
 - **AI Conversation Agent**: Uses Google Gemini to generate friendly and human-like responses.
 - **Multi-Language Support**: Communicates in multiple languages based on customer preferences.
@@ -46,7 +86,7 @@ This is an intelligent, voice-enabled, **multi-language payment reminder assista
 
 ![image](https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966)
 
-## 📦 Integrations
+## Integrations
 - **Google Gemini Chat Model** (Conversational AI & Multi-language)
 - **Google Calendar API** (Event Scheduling)
 - **AWS Lambda** (Backend Logic)
@@ -54,7 +94,7 @@ This is an intelligent, voice-enabled, **multi-language payment reminder assista
 
 ---
 
-## 📋 Setup Instructions
+## Setup Instructions
 1. Install [n8n](https://docs.n8n.io/getting-started/installation/) locally or on a server.
 2. Create API keys for:
    - Google Gemini
@@ -67,7 +107,7 @@ This is an intelligent, voice-enabled, **multi-language payment reminder assista
 
 ![image](https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966)
 
-## 🖼 Workflow Preview
+## Workflow Preview
 <img width="1489" height="592" alt="image" src="https://github.com/user-attachments/assets/2362e23b-5eaf-4710-a92e-b50943da58b0" />
 
 [🎥 Watch the Payment Reminder Agent Demo](https://drive.google.com/file/d/19qe7LxflVIRCM2pcM_p8-bCUMjs4ArPt/view?usp=sharing)
@@ -91,7 +131,7 @@ Voice Synthesis – ElevenLabs converts the translated text into high-quality sp
 ![image](https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966)
 
 
-## 🛠 Guide: How to Add Your Downloaded n8n Workflow to README.md
+## Guide: How to Add Your Downloaded n8n Workflow
 
 ```Open your workflow in n8n.```
 
@@ -103,6 +143,6 @@ T```his will give you this workflow. (e.g., ai_payment_reminder.json).```
 
 
 🙌 Thanks, Team!
-Huge shout-out to my awesome teammates — thanks for the brainstorming sessions, late-night fixes, and all the laughs along the way. Couldn’t have pulled this off without your energy, support, and dedication! 🚀💙
+Huge shout-out to my awesome teammates — thanks for the brainstorming sessions, late-night fixes, and all the laughs along the way. Couldn’t have pulled this off without your energy, support, and dedication! 💙
 
 
